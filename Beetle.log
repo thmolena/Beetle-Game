@@ -1,0 +1,11 @@
+﻿  beetle-main.cpp
+C:\Users\nguyent2\Desktop\L04\Beetle\beetle-main.cpp(30,35): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\nguyent2\Desktop\L04\Beetle\beetle-main.cpp(106,1): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\nguyent2\Desktop\L04\Beetle\beetle-main.cpp(110,1): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\nguyent2\Desktop\L04\Beetle\beetle-main.cpp(128,1): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\nguyent2\Desktop\L04\Beetle\beetle-main.cpp(138,1): warning C4804: '<': unsafe use of type 'bool' in operation
+  Beetle.vcxproj -> C:\Users\nguyent2\Desktop\L04\x64\Debug\Beetle.exe
