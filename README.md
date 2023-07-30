@@ -6,5 +6,4 @@
 
 
 ## References:
-- This repo contains original code by Jan Pearce 
 - and original ASCII Art
